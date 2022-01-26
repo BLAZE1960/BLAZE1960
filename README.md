@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming.
 - i use arch btw :)))
 - Learning C/C++
-- Wan't to make a minecraft-like game but very optimized :D
+- Want to make a minecraft-like game but very optimized :D
 
 
 <!---
