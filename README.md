@@ -3,6 +3,7 @@
 - i use arch btw :)))
 - Learning C/C++
 - Want to make a minecraft-like game but very optimized :D
+- I'm 13 years old
 
 
 <!---
